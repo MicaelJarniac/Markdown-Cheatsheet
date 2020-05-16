@@ -19,6 +19,14 @@ To create a new file, choose the menu option <kbd><kbd><samp>File</samp></kbd>â‡
 | <kbd>Ctr</kbd>+<kbd>V</kbd> | Pastes stuff |
 | <kbd>Space</kbd> | Insert a space character |
 
+## Anchors
+
+`[This takes you to the An Example for the Anchors Section section](#An-Example-for-the-Anchors-Section)`
+
+[This takes you to the An Example for the Anchors Section section](#An-Example-for-the-Anchors-Section)
+
+## An Example for the Anchors Section
+
 ## Testing area
 
 Here there be testing stuff, ignore.
