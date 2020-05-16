@@ -17,3 +17,9 @@ Read [this Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/E
 |--|--|
 | <kbd>Ctr</kbd>+<kbd>V</kbd> | Pastes stuff |
 | <kbd>Space</kbd> | Insert a space character |
+
+## Testing area
+
+Here there be testing stuff, ignore.
+
+<button name="button">Click me</button>
