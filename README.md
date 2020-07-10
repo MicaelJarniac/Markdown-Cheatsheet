@@ -33,4 +33,4 @@ Here there be testing stuff, ignore.
 
 <button name="button">Click me</button> - `<button>` doesn't work
 
-<a href="">![](https://img.shields.io/badge/label-message-red)</a>
+<a href="#" target="_blank">![](https://img.shields.io/badge/label-message-red)</a>
