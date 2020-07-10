@@ -32,3 +32,5 @@ To create a new file, choose the menu option <kbd><kbd><samp>File</samp></kbd>â‡
 Here there be testing stuff, ignore.
 
 <button name="button">Click me</button> - `<button>` doesn't work
+
+![](https://img.shields.io/badge/label-message-red)
