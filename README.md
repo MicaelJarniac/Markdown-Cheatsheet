@@ -25,6 +25,28 @@ To create a new file, choose the menu option <kbd><kbd><samp>File</samp></kbd>â‡
 
 [This takes you to the An Example for the Anchors Section section](#An-Example-for-the-Anchors-Section)
 
+## Details/Dropdown/Spoiler Section
+
+This one is also mostly HTML, but hey, if it works it works.
+
+```markdown
+<details>
+  <summary>Click me!</summary>
+  
+  # The hidden section
+  
+  Oh, you clicked? Wonderful! Now I can show you that, if you add a blank line after the last `summary` tag, you can have Markdown inside here too!
+</details>
+```
+
+<details>
+  <summary>Click me!</summary>
+  
+  # The hidden section
+  
+  Oh, you clicked? Wonderful! Now I can show you that, if you add a blank line after the last `summary` tag, you can have Markdown inside here too!
+</details>
+
 ## An Example for the Anchors Section
 
 ## Testing area
